@@ -9,7 +9,7 @@
         <!-- </div> -->
         <!-- <div class="flexbox"> -->
         <label for="category">
-          <b>Select Category:</b>
+          <b>Select Category Please:</b>
         </label>
         <select id="category" v-model="category">
           <option value>Choose A Category</option>
